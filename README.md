@@ -1,7 +1,7 @@
 # jassjr/README.md
 
 ### About Me
-20 y/o | Female | CS Student | Coaster Enthusiast 🌸  
+20 y/o | Female | CS Student | Enthusiast 🌸  
 Working for and studying at **EPITA** (École pour l'Informatique et les Techniques Avancées) in Paris, France
 
 
